@@ -1,0 +1,4 @@
+interface:
+  display_name: "Archaic PWA"
+  short_description: "Standards-first TypeScript PWAs with Deno"
+  default_prompt: "Use $archaic-pwa to design and implement a standards-first TypeScript PWA with Deno."
